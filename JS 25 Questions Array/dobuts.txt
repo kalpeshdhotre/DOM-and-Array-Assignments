@@ -1,0 +1,9 @@
+DONE #24. Create a separate countries.js file and store the countries array in to this file, create a separate file web_techs.js and store the webTechs array in to this file. Access both file in main.js file
+import and export
+
+#31 . Sort the webTechs array and mernStack array // 
+	countries Array : https://gist.github.com/incredimike/1469814
+
+#27 // - Compare the value of (min - average) and (max - average), use abs() method - 
+
+#34. Linear equation is calculated as follows: ax + by + c = 0. Write a function which calculates value of a linear equation, solveLinEquation.
